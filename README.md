@@ -1,5 +1,6 @@
 # PyQt5_Tips
-Some tips for pyqt5.
+Some tips for pyqt5. <br>
+All you need just ```python``` (which support PyQt5) and **Qt Designer**.
 
 
 ## PasswordVisibility
