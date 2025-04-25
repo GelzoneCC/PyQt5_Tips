@@ -15,5 +15,5 @@ Use signal/slots editor in the **Qt Designer** to make this workable.
 
 ## QThread_usage
 Make a general QThread usage. <br>
-You can do the long-time-consuming task separated by the main thread preventing from the UI stuck.
+You can do the long-time-consuming task separated by the main thread preventing from the UI stuck. <br>
 Also show the message, progress value on the UI.
