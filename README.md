@@ -17,3 +17,7 @@ Use signal/slots editor in the **Qt Designer** to make this workable.
 Make a general _QThread_ usage. <br>
 You can do the long-time-consuming task separated by the main thread preventing from the UI stuck. <br>
 Also show the message, progress value on the UI.
+
+
+## Qt Designer
+1. Use "minimumSize" & "maximumSize" & "scaledContents" properly to control the label size (especially for image in it).
