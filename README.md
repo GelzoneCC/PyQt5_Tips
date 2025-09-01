@@ -18,6 +18,6 @@ Make a general _QThread_ usage. <br>
 You can do the long-time-consuming task separated by the main thread preventing from the UI stuck. <br>
 Also show the message, progress value on the UI.
 
-
 ## Qt Designer
-1. Use "minimumSize" & "maximumSize" & "scaledContents" properly to control the label size (especially for image in it).
+1. Use "minimumSize" & "maximumSize" & "scaledContents" properly to control the label size (especially for image in it). <br>
+2. Set style sheet property (at the top level) to make UI/UX better. (e.g. #buttonName {border-top-left-radius: 20px;} ... )
